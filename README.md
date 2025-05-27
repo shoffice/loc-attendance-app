@@ -7,60 +7,44 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## About Laravel
+<h1> Aplikasi Website Presensi GIS </h1>
+<p>Fitur presensi berbasis lokasi yang akurat. Dengan memanfaatkan teknologi GPS, aplikasi ini akan mendeteksi lokasi pengguna secara real-time dan memverifikasi kehadiran mereka dalam radius yang telah ditentukan.</p>
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+<h2>Halaman Login</h2>
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+![image](https://github.com/user-attachments/assets/17b27690-9390-46be-9f4e-7c665cb96a13)
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+<h2>
+    Beranda
+</h2>
 
-## Learning Laravel
+![image](https://github.com/user-attachments/assets/726026b4-56b3-4f9a-9dd3-cb9d8af3a16e)
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+<h2>
+    Halaman Presensi Datang
+</h2>
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
+![image](https://github.com/user-attachments/assets/095aea24-1e97-4be5-b4f0-b5fb2e2a37d5)
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+<h3>
+   Tampilan Presensi Berhasil 
+</h3>
 
-## Laravel Sponsors
+![image](https://github.com/user-attachments/assets/2f9d253a-705c-4385-997c-1a52fbb3f7b8)
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
+<h3>
+    Tampilan Presensi Gagal
+</h3>
+<p>Pengguna berada di luar radius kantor. </p>
 
-### Premium Partners
+![image](https://github.com/user-attachments/assets/198c5a25-19ef-4bf4-91dc-f6f2ef4789f5)
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[WebReinvent](https://webreinvent.com/)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Jump24](https://jump24.co.uk)**
-- **[Redberry](https://redberry.international/laravel/)**
-- **[Active Logic](https://activelogic.com)**
-- **[byte5](https://byte5.de)**
-- **[OP.GG](https://op.gg)**
+![image](https://github.com/user-attachments/assets/5e8c03de-642b-47c9-8b5e-a28c91d30276)
 
-## Contributing
+<h2>Halaman Presensi Pulang</h2>
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+![image](https://github.com/user-attachments/assets/3ab8dc89-7c6f-4768-9b3d-ef1c52cfc5de)
 
-## Code of Conduct
+![image](https://github.com/user-attachments/assets/d621998c-036f-4165-b78b-fb905993b1c8)
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
 
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
